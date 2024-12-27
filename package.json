@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "telegram-api-bot": "^1.0.14"
+  }
+}
