@@ -2,7 +2,8 @@ import telebot
 from telebot import types
 
 # Инициализация бота с токеном
-bot = telebot.TeleBot("6673408905:AAFZs3MYjiKTrtXIUEKOUdwL0Q92WGH5t8g")
+bot = telebot.TeleBot("7376088476:AAEWoyTXmpp_PfHBohLg_4vN7OQRKpIhWSA") #БУРЯТКА ПОМЕНЯЙ АПИ АЛО БЛ НЕ ЗАБУДЬ ЖЛТМРДЯ
+
 
 # Глобальные переменные для хранения данных пользователя
 name = ''
