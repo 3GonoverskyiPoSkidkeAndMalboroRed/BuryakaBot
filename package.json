@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "telebot": "^1.4.1",
     "telegram-api-bot": "^1.0.14"
   }
 }
